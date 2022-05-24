@@ -16,12 +16,11 @@ title: Factorization for weak annihilation B-meson decays
 location: "Online: 438-489-613（腾讯会议）"
 date: 2022-05-29T01:30:06.619Z
 date_end: 2022-05-29T03:00:01.833Z
-all_day: true
+all_day: false
 event: Seminar Report
 event_url: no
 publishDate: 2022-05-24T14:37:01.921Z
-authors:
-  - 王玉明
+authors: []
 banner:
   caption: ""
   image: ""
