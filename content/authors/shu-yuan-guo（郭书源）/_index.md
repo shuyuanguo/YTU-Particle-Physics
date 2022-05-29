@@ -8,6 +8,8 @@ interests:
 social: []
 email: shyuanguo@ytu.edu.cn
 superuser: true
+user_groups:
+  - Researchers
 ---
 2018.09--2021.02 Postdoc in CHEP in Peking University
 
