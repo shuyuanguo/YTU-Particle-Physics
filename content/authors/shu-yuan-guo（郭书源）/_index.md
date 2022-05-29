@@ -1,5 +1,5 @@
 ---
-title: Shu-Yuan Guo（郭书源）
+title: Shu-Yuan Guo  （郭书源）
 avatar_filename: avatar.jpg
 interests:
   - neutrino-physics
