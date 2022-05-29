@@ -1,6 +1,6 @@
 ---
 title: Bin Zhu
-role: Assistant Professor of Particle Physics
+role: Associate Professor of Particle Physics
 avatar_filename: avatar.jpg
 bio: My research interests include dark matter phenomenology and dark matter
   detections
@@ -22,4 +22,4 @@ superuser: true
 user_groups:
   - Researchers
 ---
-Bin Zhu is an assistant professor of particle physics at the Yantai University. His research interests include dark matter phenomenology and dark matter detections.
+Bin Zhu is an associate professor of particle physics at the Yantai University. His research interests include dark matter phenomenology and dark matter detections.
