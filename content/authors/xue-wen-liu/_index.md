@@ -1,5 +1,5 @@
 ---
-title: Xue-Wen Liu
+title: Xuewen Liu
 role: Associate Professor in Particle Physics
 avatar_filename: avatar.jpg
 interests:
@@ -20,4 +20,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
-Xue-Wen Liu is an associate professor at Yantai University.
+Xuewen Liu is an associate professor at Yantai University.
