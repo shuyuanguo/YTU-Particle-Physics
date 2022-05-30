@@ -27,6 +27,8 @@ event_url: no
 publishDate: 2022-05-24T14:45:54.309Z
 draft: false
 featured: false
+authors:
+  - Zuowei Liu
 image:
   filename: featured
   focal_point: Smart
