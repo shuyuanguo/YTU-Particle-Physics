@@ -4,7 +4,8 @@ role: Associate Professor in Particle Physics
 avatar_filename: avatar.jpg
 interests:
   - Dark Matter Phenomenology
-  - Dark Matter Detection
+  - Electroweak Phase Transition
+  - Gravitational Waves
 social:
   - display:
       header: false
