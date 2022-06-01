@@ -24,4 +24,4 @@ superuser: true
 user_groups:
   - Researchers
 ---
-Bin Zhu is an associate professor of particle physics at the Yantai University. His research interests include dark matter phenomenology and dark matter detections.
+Bin Zhu is an associate professor of physics at Yantai University. His research interests include beyond the Standard Model physics, dark matter, astroparticle physics, etc.
