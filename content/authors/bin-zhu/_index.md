@@ -5,8 +5,10 @@ avatar_filename: avatar.jpg
 bio: My research interests include dark matter phenomenology and dark matter
   detections
 interests:
-  - Dark Matter Phenomenology
-  - Dark Matter Detections
+  - Beyond the Standard Model Physics
+  - Dark Matter
+  - Astroparticle Physics
+  - etc
 social:
   - display:
       header: false
