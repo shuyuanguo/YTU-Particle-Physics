@@ -1,6 +1,6 @@
 ---
 title: Bin Zhu
-role: Associate Professor of Particle Physics
+role: Associate Professor of Physics
 avatar_filename: avatar.jpg
 bio: My research interests include dark matter phenomenology and dark matter
   detections
