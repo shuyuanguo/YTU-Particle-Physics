@@ -17,9 +17,9 @@ social:
     icon: envelope
 education:
   courses:
-    - course: PhD in Particle Physics
+    - course: PhD in Theoretical Physics
       institution: Nankai University
-      year: 2009
+      year: 2014
 superuser: true
 user_groups:
   - Researchers
