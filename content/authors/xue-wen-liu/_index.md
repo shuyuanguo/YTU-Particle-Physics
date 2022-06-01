@@ -1,6 +1,6 @@
 ---
-title: Xuewen Liu
-role: Associate Professor in Particle Physics
+title: Xuewen Liu (刘学文)
+role: Associate Professor in Physics
 avatar_filename: avatar.jpg
 interests:
   - Dark Matter Phenomenology
