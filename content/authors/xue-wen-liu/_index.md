@@ -14,11 +14,11 @@ social:
     icon: envelope
 education:
   courses:
-    - course: PhD in Particle Physics
+    - course: PhD in Theoretical Physics
       institution: Nankai University
       year: 2016
 superuser: false
 user_groups:
   - Researchers
 ---
-Xuewen Liu is an associate professor at Yantai University.
+Xuewen Liu is an associate professor at Yantai University. His research interests include beyond the Standard Model physics, dark matter, Electroweak Phase Transition, Gravitational Waves, etc.
