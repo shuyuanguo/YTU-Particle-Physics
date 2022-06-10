@@ -54,7 +54,7 @@ footer:
 
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '15:04 GMT+8'
+  time_format: '15:04 MST'
   address_format: en-us
 
 # Site features
