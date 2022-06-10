@@ -21,6 +21,6 @@ design:
   view: 3
   columns: "1"
   background:
-    image: featured.png
+    image: ""
 ---
 In our latest work published on *Science Bulletin*, we discussed the mass splittings in the *scotogenic* model, which are responsible for the W-boson mass newly measured by the CDF collaboration. This model can not only generate non-vanishing Majorana neutrino masses, but also explain the Universe’s missing matter in the form of FIMP dark matter. The influence of the mass splitting on the first order electroweak phase transition are also studied, the new mass splitting driven by the W mass anomaly can further enhance the transition strength and thus induce gravitational waves during the phase transition, which may be detected in the forthcoming detectors such as U-DECIGO.
