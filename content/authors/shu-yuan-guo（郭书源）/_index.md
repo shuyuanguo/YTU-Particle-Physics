@@ -10,7 +10,7 @@ social:
       header: false
     link: mailto:shyuanguo@ytu.edu.cn
     icon_pack: fas
-    icon: mail
+    icon: envelop
 email: shyuanguo@ytu.edu.cn
 superuser: true
 user_groups:
