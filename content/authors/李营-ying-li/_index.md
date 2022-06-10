@@ -10,5 +10,5 @@ social:
     icon: envelop
 superuser: true
 user_groups:
-  - researchers
+  - Researchers
 ---
