@@ -4,8 +4,8 @@ widget_id: recent-posts
 headless: true
 weight: 20
 title: Latest News
-subtitle: Unifying gravitational waves with W boson mass, FIMP dark matter and
-  Majorana Seesaw mechanism
+subtitle: Correlating gravitational waves with W boson mass, FIMP dark matter
+  and Majorana Seesaw mechanism
 content:
   count: 5
   filters:
