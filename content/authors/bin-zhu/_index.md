@@ -1,5 +1,5 @@
 ---
-title: Bin Zhu (祝斌)
+title: 祝斌 (Bin Zhu)
 role: Associate Professor of Physics
 avatar_filename: avatar.jpg
 bio: My research interests include beyond the Standard Model physics, dark
