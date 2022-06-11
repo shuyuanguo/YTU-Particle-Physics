@@ -1,5 +1,5 @@
 ---
-title: Unifying gravitational waves with W boson mass, FIMP dark matter and
+title: Correlating gravitational waves with W boson mass, FIMP dark matter and
   Majorana Seesaw mechanism
 view: compact
 banner:
