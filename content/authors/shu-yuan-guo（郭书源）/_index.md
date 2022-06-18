@@ -1,5 +1,5 @@
 ---
-title: 郭书源(Shu-Yuan Guo)
+title: 郭书源 (Shu-Yuan Guo)
 role: Lecturer in Particle Physics
 avatar_filename: avatar.jpg
 interests:
