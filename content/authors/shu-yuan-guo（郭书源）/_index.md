@@ -1,10 +1,11 @@
 ---
-title: Shu-Yuan Guo（郭书源）
+title: 郭书源(Shu-Yuan Guo)
+role: Lecturer in Particle Physics
 avatar_filename: avatar.jpg
 interests:
-  - neutrino-physics
-  - collider-phenomenology
-  - dark-matter
+  - neutrino physics
+  - collider phenomenology
+  - dark matter
 social:
   - display:
       header: false
