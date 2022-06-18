@@ -1,5 +1,5 @@
 ---
-title: 李营(Ying Li)
+title: 李营 (Ying Li)
 role: Professor in theoretical physics
 avatar_filename: avatar.jpg
 social:
