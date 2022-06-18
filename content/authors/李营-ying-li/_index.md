@@ -7,7 +7,7 @@ social:
       header: false
     link: mailto:liying@ytu.edu.cn
     icon_pack: fas
-    icon: envelop
+    icon: envelope
 superuser: true
 user_groups:
   - Researchers
