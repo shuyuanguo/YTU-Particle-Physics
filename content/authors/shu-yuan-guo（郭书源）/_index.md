@@ -17,6 +17,6 @@ superuser: true
 user_groups:
   - Researchers
 ---
-2018.09--2021.02 Postdoc in CHEP in Peking University
+2018.09--2021.02 Postdoc at CHEP in Peking University
 
 2015.09--2018.07 Doctor in theoretical physics in Nankai University
