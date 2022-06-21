@@ -1,6 +1,6 @@
 ---
 title: 郭书源 (Shu-Yuan Guo)
-role: Lecturer in Particle Physics
+role: Lecturer in Physics
 avatar_filename: avatar.jpg
 interests:
   - neutrino physics
