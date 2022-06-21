@@ -9,7 +9,7 @@ date: 2022-06-19T11:30:02.355Z
 date_end: 2022-06-19T13:00:00.000Z
 all_day: false
 event: Seminar Report
-event_url: https://www.bilibili.com/video/BV18W4y167vn?spm_id_from=333.999.0.0&vd_source=b0628f5c27c107e16003040760a9a3a3
+event_url: no
 publishDate: 2022-06-21T00:59:02.366Z
 draft: false
 featured: false
@@ -21,4 +21,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-video record see <https://www.bilibili.com/video/BV18W4y167vn?spm_id_from=333.999.0.0&vd_source=b0628f5c27c107e16003040760a9a3a3>
+[video record](https://www.bilibili.com/video/BV18W4y167vn?spm_id_from=333.999.0.0&vd_source=b0628f5c27c107e16003040760a9a3a3)
