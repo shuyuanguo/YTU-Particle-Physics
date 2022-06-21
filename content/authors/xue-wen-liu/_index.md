@@ -1,6 +1,6 @@
 ---
 title: 刘学文 (Xuewen Liu)
-role: Associate Professor of Physics
+role: Associate Professor
 avatar_filename: 刘学文生活照.jpeg
 interests:
   - Dark Matter Phenomenology
