@@ -17,7 +17,6 @@ content:
 
   email: shyuanguo@ytu.edu.cn
   address:
-    烟台市莱山区清泉路30号
 
   # Automatically link email and phone or display as text?
   autolink: true
