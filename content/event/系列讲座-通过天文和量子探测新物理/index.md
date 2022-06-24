@@ -25,3 +25,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Video Record for [Lecture 1](https://www.bilibili.com/video/BV1nT411V76t?spm_id_from=333.999.0.0&vd_source=b0628f5c27c107e16003040760a9a3a3), [Lecture 2](https://www.bilibili.com/video/BV1rr4y1g7Ve?spm_id_from=333.999.0.0&vd_source=b0628f5c27c107e16003040760a9a3a3).
