@@ -15,9 +15,9 @@ social:
   - display:
       header: false
     link: https://inspirehep.net/authors/1416934?ui-citation-summary=true
-    label: Publication list
+    label: Publication List
     icon_pack: ai
-    icon: Inspirehep
+    icon: inspire
 education:
   courses:
     - course: PhD in Theoretical Physics
