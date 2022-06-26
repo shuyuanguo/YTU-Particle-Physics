@@ -1,5 +1,5 @@
 ---
-title: 刘学文 (Xuewen Liu)
+title: Xuewen Liu (刘学文 )
 role: Associate Professor
 avatar_filename: avatar.jpg
 interests:
