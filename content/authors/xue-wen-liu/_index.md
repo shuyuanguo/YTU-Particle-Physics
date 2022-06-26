@@ -27,4 +27,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
-Xuewen Liu received his PhD from Nankai University in 2016, and joined Nanjing University as a postdoc in 2017. Now he is an associate professor at Yantai University. His research interest lies in the area of the beyond SM physics, including dark matter, electroweak phase transition and gravitational waves, etc.
+Xuewen Liu received his PhD from Nankai University in 2016, and joined Nanjing University as a postdoc in 2017. Now he is an associate professor at Yantai University. His research interest lies in the area of the beyond SM physics, including dark matter, electroweak phase transition, and gravitational waves, etc.
