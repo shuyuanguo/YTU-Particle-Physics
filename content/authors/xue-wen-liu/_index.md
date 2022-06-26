@@ -27,4 +27,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
-Xuewen Liu is an associate professor at Yantai University. His research interests include beyond the Standard Model physics, dark matter, Electroweak Phase Transition, Gravitational Waves, etc.
+Xuewen Liu is an associate professor at Yantai University. His research interests include beyond the Standard Model physics, dark matter, Electroweak Phase Transition, Gravitational Waves, etc. Publications see <https://inspirehep.net/authors/1416934?ui-citation-summary=true>
