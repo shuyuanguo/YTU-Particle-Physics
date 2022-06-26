@@ -1,5 +1,5 @@
 ---
-title: Xuewen Liu (刘学文 )
+title: 刘学文  (Xuewen Liu)
 role: Associate Professor
 avatar_filename: avatar.jpg
 interests:
@@ -23,7 +23,7 @@ education:
     - course: PhD in Theoretical Physics
       institution: Nankai University
       year: 2016
-superuser: false
+superuser: true
 user_groups:
   - Researchers
 ---
