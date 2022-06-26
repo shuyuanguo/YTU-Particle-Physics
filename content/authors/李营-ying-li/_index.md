@@ -2,6 +2,10 @@
 title: 李营 (Ying Li)
 role: Professor
 avatar_filename: 截屏2022-06-26-20.43.05.png
+interests:
+  - Heavy Flavor Physics
+  - B Meson Physics
+  - BSM
 social:
   - display:
       header: false
