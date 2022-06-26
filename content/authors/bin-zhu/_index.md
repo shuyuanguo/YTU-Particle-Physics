@@ -15,6 +15,11 @@ social:
     link: mailto:zhubin@mail.nankai.edu.cn
     icon_pack: fas
     icon: envelope
+  - display:
+      header: false
+    link: https://inspirehep.net/authors/1669970?ui-citation-summary=true
+    icon_pack: ai
+    icon: inspire
 education:
   courses:
     - course: PhD in Theoretical Physics
