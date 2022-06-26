@@ -14,4 +14,6 @@ social:
     icon_pack: ai
     icon: inspire
 superuser: false
+user_groups:
+  - Researchers
 ---
