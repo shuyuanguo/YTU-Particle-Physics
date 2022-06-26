@@ -2,6 +2,11 @@
 title: 邹芝田 (Zhi-Tian Zou)
 role: Associate Professor
 avatar_filename: wechatimg21.jpeg
+interests:
+  - Heavy flavor physics
+  - B meson physics
+  - CP asymmetry
+  - perturbative QCD
 social:
   - display:
       header: false
