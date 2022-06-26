@@ -1,7 +1,7 @@
 ---
 title: 李营 (Ying Li)
 role: Professor
-avatar_filename: avatar.jpg
+avatar_filename: 截屏2022-06-26-20.43.05.png
 social:
   - display:
       header: false
