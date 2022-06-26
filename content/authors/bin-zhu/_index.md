@@ -8,7 +8,6 @@ interests:
   - Beyond the Standard Model Physics
   - Dark Matter
   - Astroparticle Physics
-  - etc
 social:
   - display:
       header: false
