@@ -15,5 +15,7 @@ social:
     icon_pack: ai
     icon: inspire
 superuser: false
+user_groups:
+  - Researchers
 ---
 Lei Wang is a professor at Yantai University. His research interests include beyond the Standard Model physics, dark matter, collider physics, etc.
