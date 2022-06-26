@@ -19,5 +19,7 @@ social:
     icon_pack: ai
     icon: inspire
 superuser: false
+user_groups:
+  - Researchers
 ---
 Zhi-Tian Zou is an associate professor at Yantai University. His research interests include Heavy flavor physics, B meson physics, CP asymmetry, perturbative QCD, etc.
