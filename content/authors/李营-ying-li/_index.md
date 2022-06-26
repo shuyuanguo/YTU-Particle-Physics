@@ -12,3 +12,4 @@ superuser: true
 user_groups:
   - Researchers
 ---
+Ying Li is a professor at Yantai University. His research interests include heavy flavor physics, B meson physics, and beyond the Standard Model physics.
