@@ -1,7 +1,7 @@
 ---
 title: 邹芝田 (Zhi-Tian Zou)
 role: Associate Professor
-avatar_filename: avatar
+avatar_filename: wechatimg21.jpeg
 social:
   - display:
       header: false
