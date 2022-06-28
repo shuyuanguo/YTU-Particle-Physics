@@ -20,7 +20,7 @@ social:
 email: shyuanguo@ytu.edu.cn
 superuser: true
 user_groups:
-  - Researchers
+  - TeV New Physics and Dark Matter
 ---
 2018.09--2021.02 Postdoc at CHEP in Peking University
 
