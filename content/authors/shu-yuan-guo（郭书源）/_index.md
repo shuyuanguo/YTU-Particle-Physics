@@ -8,15 +8,23 @@ interests:
   - dark matter
 social:
   - display:
-      header: true
+      header: false
     link: mailto:shyuanguo@ytu.edu.cn
     icon_pack: fas
     icon: envelope
   - display:
-      header: true
+      header: false
     link: https://inspirehep.net/authors/1677618?ui-citation-summary=true
     icon_pack: ai
     icon: inspire
+organizations:
+  - name: Yantai University
+    url: www.ytu.edu.cn
+education:
+  courses:
+    - course: theoretical physics
+      institution: Nankai University
+      year: 2014
 email: shyuanguo@ytu.edu.cn
 superuser: true
 user_groups:
