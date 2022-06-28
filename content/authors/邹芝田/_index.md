@@ -23,7 +23,7 @@ education:
     - course: PhD in Theoretical Physics
       institution: Institute of High Energy Physics (IHEP) • Chinese Academy of
         Sciences (CAS)
-      year: 2031
+      year: 2013
 superuser: false
 user_groups:
   - Researchers
