@@ -1,5 +1,5 @@
 ---
-title: Shu-Yuan Guo
+title: 郭书源 (Shu-Yuan Guo)
 role: Lecturer
 avatar_filename: avatar.jpg
 social:
