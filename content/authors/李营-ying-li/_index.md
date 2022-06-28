@@ -25,6 +25,6 @@ education:
       year: 2007
 superuser: true
 user_groups:
-  - Researchers
+  - Heavy Flavor Physics
 ---
 Ying Li is a professor at department of physics, Yantai University. His research focuses on heavy flavor physics and new physics beyond the standard model.
