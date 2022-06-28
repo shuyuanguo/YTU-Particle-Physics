@@ -26,6 +26,6 @@ education:
       year: 2013
 superuser: false
 user_groups:
-  - Researchers
+  - Heavy Flavor Physics
 ---
 Zhi-Tian Zou is an associate professor at Yantai University. His research interests include Heavy flavor physics, B meson physics, CP asymmetry, perturbative QCD, etc.
