@@ -18,6 +18,12 @@ social:
     link: https://inspirehep.net/authors/1077659?ui-citation-summary=true
     icon_pack: ai
     icon: inspire
+education:
+  courses:
+    - course: PhD in Theoretical Physics
+      institution: Institute of High Energy Physics (IHEP) • Chinese Academy of
+        Sciences (CAS)
+      year: 2031
 superuser: false
 user_groups:
   - Researchers
