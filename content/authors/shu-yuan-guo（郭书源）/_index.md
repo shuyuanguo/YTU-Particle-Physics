@@ -8,12 +8,12 @@ interests:
   - dark matter
 social:
   - display:
-      header: false
+      header: true
     link: mailto:shyuanguo@ytu.edu.cn
     icon_pack: fas
     icon: envelope
   - display:
-      header: false
+      header: true
     link: https://inspirehep.net/authors/1677618?ui-citation-summary=true
     icon_pack: ai
     icon: inspire
