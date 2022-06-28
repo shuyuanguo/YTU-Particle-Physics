@@ -15,5 +15,5 @@ social:
     icon: inspire
 superuser: false
 user_groups:
-  - Researchers
+  - Heavy Flavor Physics
 ---
