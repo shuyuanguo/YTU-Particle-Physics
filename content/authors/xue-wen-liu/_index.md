@@ -27,6 +27,6 @@ education:
       year: 2016
 superuser: true
 user_groups:
-  - Researchers
+  - TeV New Physics and Dark Matter
 ---
 Xuewen Liu received his PhD from Nankai University in 2016, and joined Nanjing University as a postdoc in 2017. Now he is an associate professor at Yantai University. His research interest lies in the area of the beyond SM physics, including dark matter, electroweak phase transition, and gravitational waves.
