@@ -25,5 +25,5 @@ education:
       year: 2010
 superuser: false
 user_groups:
-  - Researchers
+  - TeV New Physics and Dark Matter
 ---
