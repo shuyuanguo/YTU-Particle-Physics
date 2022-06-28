@@ -17,14 +17,12 @@ social:
     link: https://inspirehep.net/authors/1677618?ui-citation-summary=true
     icon_pack: ai
     icon: inspire
-organizations:
-  - name: Yantai University
-    url: www.ytu.edu.cn
+organizations: []
 education:
   courses:
     - course: theoretical physics
       institution: Nankai University
-      year: 2014
+      year: 2018
 email: shyuanguo@ytu.edu.cn
 superuser: true
 user_groups:
