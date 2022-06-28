@@ -17,6 +17,12 @@ social:
     link: https://inspirehep.net/authors/1058453?ui-citation-summary=true
     icon_pack: ai
     icon: inspire
+education:
+  courses:
+    - course: PhD in Theoretical Physics
+      institution: Institute of Theoretical Physics (ITP) • Chinese Academy of
+        Sciences (CAS)
+      year: 2010
 superuser: false
 user_groups:
   - Researchers
