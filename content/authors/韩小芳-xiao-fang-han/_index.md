@@ -1,7 +1,11 @@
 ---
 title: 韩小芳 (Xiao-Fang Han)
 role: Associate Professor
-avatar_filename: avatar
+avatar_filename: avatar.jpg
+interests:
+  - BSM
+  - Dark Matter
+  - Collider Physics
 social:
   - display:
       header: false
