@@ -10,5 +10,5 @@ social:
     icon: envelope
 superuser: false
 user_groups:
-  - TeV New Physics and Dark Matter
+  - BSM New Physics
 ---
