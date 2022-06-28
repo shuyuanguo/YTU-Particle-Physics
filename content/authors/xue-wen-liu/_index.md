@@ -2,6 +2,8 @@
 title: 刘学文 (Xuewen Liu)
 role: Associate Professor
 avatar_filename: avatar.jpg
+bio: My research interests include beyond the Standard Model physics, dark
+  matter, cosmology.
 interests:
   - Dark Matter Phenomenology
   - Electroweak Phase Transition
