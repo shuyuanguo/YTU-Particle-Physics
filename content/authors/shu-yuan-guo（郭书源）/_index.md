@@ -20,7 +20,7 @@ social:
 organizations: []
 education:
   courses:
-    - course: theoretical physics
+    - course: PhD in Theoretical Physics
       institution: Nankai University
       year: 2018
 email: shyuanguo@ytu.edu.cn
