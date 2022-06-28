@@ -26,6 +26,6 @@ education:
       year: 2014
 superuser: true
 user_groups:
-  - Researchers
+  - TeV New Physics and Dark Matter
 ---
 Bin Zhu is an associate professor of physics at Yantai University. His research interests include beyond the Standard Model physics, dark matter, astroparticle physics.
