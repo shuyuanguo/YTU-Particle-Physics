@@ -26,6 +26,6 @@ education:
       course: PHD in Theoretical Physics
 superuser: false
 user_groups:
-  - TeV New Physics and Dark Matter
+  - BSM New Physics
 ---
 Lei Wang is a professor at Yantai University. His research interests include beyond the Standard Model physics, dark matter, collider physics, etc.
