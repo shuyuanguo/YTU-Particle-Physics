@@ -1,7 +1,7 @@
 ---
 title: 王磊 (Lei Wang)
 role: Professor
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: BSM, Dark Matter, Collider Physics
 social:
   - display:
