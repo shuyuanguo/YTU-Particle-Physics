@@ -17,7 +17,7 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Heavy Flavor Physics
-    - TeV New Physics and Dark Matter
+    - BSM New Physics
     - Grad Students
     - Administration
     - Visitors
