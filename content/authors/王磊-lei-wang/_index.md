@@ -1,7 +1,7 @@
 ---
 title: 王磊 (Lei Wang)
 role: Professor
-avatar_filename: avatar.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - BSM
