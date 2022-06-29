@@ -1,5 +1,5 @@
 ---
-title: Ying Li
+title: 李营 (Ying Li)
 role: Professor
 avatar_filename: avatar.jpg
 social:
