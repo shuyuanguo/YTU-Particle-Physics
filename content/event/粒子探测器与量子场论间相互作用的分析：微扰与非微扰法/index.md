@@ -21,6 +21,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-徐皓博士，2017年在南开大学获得博士学位，2018年于南方科技大学做博士后，2020年加入扬州大学引力与宇宙学中心。主要研究方向为黑洞物 理、量子场论、量子信息、AdS/CFT。INSPIEHEP: <https://inspirehep.net/authors/1407905?ui-citation-summary=true>
+徐皓博士，2017年在南开大学获得博士学位，2018年于南方科技大学做博士后，2020年加入扬州大学引力与宇宙学中心。主要研究方向为黑洞物 理、量子场论、量子信息、AdS/CFT。INSPIEHEP:<https://inspirehep.net/authors/1407905?ui-citation-summary=true>
 
 ![](xuhao.png)
