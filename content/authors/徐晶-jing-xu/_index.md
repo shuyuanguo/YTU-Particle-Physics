@@ -1,6 +1,6 @@
 ---
 title: 徐晶 (Jing Xu)
-avatar_filename: avatar
+avatar_filename: avatar.png
 social:
   - display:
       header: false
