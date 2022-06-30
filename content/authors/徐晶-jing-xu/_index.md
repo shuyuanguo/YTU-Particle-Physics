@@ -1,5 +1,6 @@
 ---
 title: 徐晶 (Jing Xu)
+role: Associate Professor
 avatar_filename: avatar.png
 social:
   - display:
