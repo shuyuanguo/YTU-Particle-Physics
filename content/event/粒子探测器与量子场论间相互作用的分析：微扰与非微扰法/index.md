@@ -17,7 +17,7 @@ featured: false
 authors:
   - 徐皓
 image:
-  filename: featured.png
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
