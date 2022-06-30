@@ -7,10 +7,11 @@ location: "Online: 526601619（腾讯会议）"
 date: 2022-04-22T02:00:34.615Z
 date_end: 2022-04-21T16:00:00.000Z
 all_day: false
+links: []
 event: Seminar Report
 event_url: no
 publishDate: 2022-04-22T12:35:34.631Z
-slides: /Users/xwl/Desktop/presentation_xuhao.pdf
+slides: ""
 draft: false
 featured: false
 authors:
