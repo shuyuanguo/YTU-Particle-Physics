@@ -14,4 +14,4 @@ design:
 ---
 <br>
 
-The **YTU Particle Physics Group** consists of active and young researchers with interests in Flavor Physics, TeV New Physics and Dark Matter Physics.
+The **YTU Particle Physics Group** consists of active and young researchers with interests in Elementary Particle Physics, Theoretical Cosmology,  and Particle Astrophysics
