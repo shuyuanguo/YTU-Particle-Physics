@@ -10,6 +10,7 @@ all_day: false
 event: Seminar Report
 event_url: no
 publishDate: 2022-04-22T12:35:34.631Z
+slides: /Users/xwl/Desktop/presentation_xuhao.pdf
 draft: false
 featured: false
 authors:
