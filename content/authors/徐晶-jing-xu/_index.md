@@ -4,7 +4,7 @@ avatar_filename: avatar
 social:
   - display:
       header: false
-    link: mailto:xujing@ytu.edu.cn
+    link: mailto:xj2012@mail.bnu.edu.cn
     icon_pack: fas
     icon: envelope
 superuser: false
