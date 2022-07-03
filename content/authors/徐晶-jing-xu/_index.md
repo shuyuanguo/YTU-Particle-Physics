@@ -1,7 +1,7 @@
 ---
 title: 徐晶 (Jing Xu)
 role: Associate Professor
-avatar_filename: avatar.png
+avatar_filename: avatar.jpeg
 interests:
   - Neutrino Physics
 social:
